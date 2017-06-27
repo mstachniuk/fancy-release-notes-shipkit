@@ -1,0 +1,11 @@
+**0.0.2 (2017-06-27)** - [17 commits](https://github.com/mstachniuk/fancy-release-notes-shipkit/compare/v0.0.1...v0.0.2) by 4 authors - published to [![Bintray](https://img.shields.io/badge/Bintray-0.0.2-green.svg)](https://bintray.com/shipkit-bootstrap/bootstrap/maven/0.0.2)
+ - Commits: [Marcin Stachniuk](https://github.com/mstachniuk) (10), [Hephaestus Damocles](https://github.com/HephaestusDamocles) (3), [Twin Twist](https://github.com/TwinTwist) (3), [Orestes Achilleus](https://github.com/OrestesAchilleus) (1)
+ - [Java 9 support] Proof of Concept of Java 9 [(#4)](https://github.com/mstachniuk/fancy-release-notes-shipkit/pull/4)
+ - [Java 8 support] Add Optional as returned type [(#10)](https://github.com/mstachniuk/fancy-release-notes-shipkit/pull/10)
+ - [New features] Double calculator [(#6)](https://github.com/mstachniuk/fancy-release-notes-shipkit/pull/6)
+ - [New features] Integer calculator [(#5)](https://github.com/mstachniuk/fancy-release-notes-shipkit/pull/5)
+ - [New features] Print Ship it! in console [(#2)](https://github.com/mstachniuk/fancy-release-notes-shipkit/pull/2)
+ - [Bugfixes] Fix bug in buggy class [(#9)](https://github.com/mstachniuk/fancy-release-notes-shipkit/pull/9)
+ - [Improvements] Create buggy class 4 fun [(#8)](https://github.com/mstachniuk/fancy-release-notes-shipkit/pull/8)
+ - [Documentation] Update Readme [(#7)](https://github.com/mstachniuk/fancy-release-notes-shipkit/pull/7)
+
