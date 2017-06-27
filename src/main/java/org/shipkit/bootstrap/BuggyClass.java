@@ -19,6 +19,6 @@ public class BuggyClass {
 
     @Override
     public int hashCode() {
-        return new Random().nextInt();
+        return number;
     }
 }

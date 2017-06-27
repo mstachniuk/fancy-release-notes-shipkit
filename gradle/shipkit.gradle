@@ -9,7 +9,7 @@ shipkit {
             'java-8'          : "Java 8 support",
             'new feature'     : "New features",
             'bug'             : "Bugfixes",
-            'improvement'     : "Improvement",
+            'improvement'     : "Improvements",
             'docs'            : 'Documentation'
     ]
 }
