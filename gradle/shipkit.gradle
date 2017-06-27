@@ -1,9 +1,8 @@
 shipkit {
-    gitHub.repository = "mockito/shipkit-bootstrap"
+    gitHub.repository = "mstachniuk/fancy-release-notes-shipkit"
     gitHub.readOnlyAuthToken = "76826c9ec886612f504d12fd4268b16721c4f85d"
     gitHub.writeAuthUser = "shipkit-org"
 
-    releaseNotes.file = "doc/release-notes/official.md"
     releaseNotes.labelMapping = [
             'java-9'          : "Java 9 support",
             'java-8'          : "Java 8 support",
